@@ -49,17 +49,17 @@ const serviceItemsSecondary: serviceItems[] = [
   {
     label: "Notificaciones",
     icon: Bell,
-    path: "/dashboard/atomcito",
+    path: "/dashboard/Atomcito",
   },
   {
     label: "Atomcito",
     icon: Sparkles,
-    path: "/dashboard/atomcito",
+    path: "/dashboard/Atomcito",
   },
   {
     label: "Ajustes",
     icon: Settings,
-    path: "/dashboard/atomcito",
+    path: "/dashboard/Atomcito",
   },
 ];
 

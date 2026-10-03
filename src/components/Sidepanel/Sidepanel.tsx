@@ -58,8 +58,8 @@ export default function Sidepanel({
         dark:border-[#222222]
         dark:text-white
 
-        transition-all
-        duration-300
+        transition-smooth
+        duration-200
         ease-in-out
 
         overflow-hidden
